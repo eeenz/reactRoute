@@ -8,7 +8,7 @@ function App() {
   return (
     <div id="wrap">
       <header>
-        <h1>국민 MC 유재석! 그에 대해 알아보자</h1>
+        <h1>무한도전 1인자와 2인자를 소개합니다!</h1>
         <nav>
           <Link to="/">소개</Link>
           <Link to="/home">방송활동</Link>
